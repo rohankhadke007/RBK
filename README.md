@@ -18,3 +18,6 @@ B. Merging demo from base branch.
 
 Master madhla READ ME.....Now Concurrent Merge Demo
 -----------------End of Master Changes to See concurrent Demo-------------------
+
+
+A. Master madhe change kartoy...This is actual Concurrent check...Karan ata Edit-Read-Me-Branch is already updated.
